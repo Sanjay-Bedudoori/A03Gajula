@@ -1,12 +1,10 @@
 
 ## Gajula_Vineeth
 
-This Website contains Homepage,Quiz page,Contact Page and guestbook page
+This Website contains Homepage,Quiz page and a Contact Page.
 Homepage shows a short information about my skill set, interests, education and contact info.
-Quiz page contains a short quiz with some user interaction.
-contact page has a form and links to my github,social accounts.
-Finally guestbook which is a simple guest book using Node, Express, BootStrap, EJS takes new entries and displays it.
+Quiz page contains a short quiz with some user interaction and finally contact page has a form and links to my github,social accounts.
 
 ## Try it 
 
-https://github.com/vineethgajula1/A03Vineeth
+https://github.com/vineethgajula1/A02Vineeth
