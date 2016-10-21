@@ -1,0 +1,10 @@
+body{
+		background:lightblue;
+}
+#myNavbar{
+	font-size:22px;
+	font-weight: bold;
+}
+.panel-heading{
+	color:blue;
+}
