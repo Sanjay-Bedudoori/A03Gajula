@@ -1,0 +1,18 @@
+{   "name": "A03",
+    "version": "0.0.1",
+    "description": "Personal Website",
+    "main": "server.js",
+    "dependencies": {
+        "express": "latest",
+        "morgan": "latest",
+        "body-parser": "latest",
+        "ejs": "latest"
+    },
+    "author": "Vineeth Gajula",
+    "homepage": "https://github.com/vineethgajula1/A03Vineeth",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vineethgajula1/A03Vineeth"
+    },
+     "license": "Apache-2.0"
+}
